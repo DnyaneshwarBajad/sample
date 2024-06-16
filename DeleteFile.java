@@ -1,3 +1,4 @@
+//delete file
 import java.io.File;   
 class DeleteFile {  
   public static void main(String[] args) {   
